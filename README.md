@@ -5,5 +5,5 @@ About the project: I took a long break last year, and decided to get back on wha
 
 This part we discuss various tools/libraries we can use to enhance our datascience skills
 1. Plots <br />
-a. Bubble Plot<br />
-b. Scatter Plot<br />
+a. Bubble Plot - using matplotlib<br />
+b. Scatter Plot - using matplotlib<br />
